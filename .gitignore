@@ -1,0 +1,7 @@
+# ignore files that end with
+
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.csv
